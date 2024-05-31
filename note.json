@@ -1,0 +1,29 @@
+[
+    {
+        "id": 3,
+        "title": "Mononoke Hime",
+        "release_date": "Jul 1997",
+        "image": "ui/images/mononoke-hime.jpg",
+        "rating": 10.0
+    },
+    {
+        "id": 0,
+        "title": "Sousou no Frieren",
+        "release_date": "Sep 2023",
+        "image": "ui/images/frieren.jpg",
+        "rating": 9.0
+    },
+    {
+        "id": 2,
+        "title": "One Piece",
+        "release_date": "Oct 1999",
+        "image": "ui/images/one-piece.jpg",
+        "rating": 8.0
+    },
+    {
+        "title": "",
+        "release_date": "1/1/2000",
+        "rating": "",
+        "url": ""
+    }
+]
